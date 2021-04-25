@@ -1,0 +1,82 @@
+.container{
+    width: 1000px;
+    background-color: red;
+    border: 1px solid #000000;
+    margin: 0px auto;
+    height: 100px;
+}
+.header{
+    width: 1000px;
+    border: 1px solid #000000;
+    margin: 0px auto;
+}
+.menus{
+    float: right;
+}
+li{
+    float: left;
+    list-style: none;
+    margin: 5px;
+}
+.banner{
+    width: 1000px;
+    height: 300px;
+
+}
+.simage1{
+    height: 300px;
+    width: 317px;
+    border: solid #000000;
+    margin: 5px;
+    float: left;
+    text-align: center;
+}
+.simage2{
+    height: 300px;
+    width: 317px;
+    border: solid #000000;
+    margin: 5px;
+    float: left;
+    text-align: center;
+}
+.simage3{
+    height: 300px;
+    width: 317px;
+    border: solid #000000;
+    margin: 5px;
+    float: left;
+    text-align: center;
+}
+.simage4{
+    height: 300px;
+    width: 317px;
+    border: solid #000000;
+    margin: 5px;
+    float: left;
+    text-align: center;
+}
+.simage5{
+    height: 300px;
+    width: 317px;
+    border: solid #000000;
+    margin: 5px;
+    float: left;
+    text-align: center;
+}
+.simage6{
+    height: 300px;
+    width: 317px;
+    border: solid #000000;
+    margin: 5px;
+    float: left;
+    text-align: center;
+}
+.text{
+    float: left;
+} 
+.p{
+    border: solid #000000;
+    margin: 5px;
+    background-color: red;
+    font-size: large;
+}
